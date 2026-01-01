@@ -14,4 +14,4 @@ This project analyzes employee attrition data to identify key factors contributi
 - *Age Group:* Young professionals (19-25) are leaving more frequently.
 
 ##  Dashboard Preview
-![Dashboard Screenshot](IBMAttritionAnalytics.png)
+![Dashboard Screenshot](IBM%20Attrition%20Analytics.png)
